@@ -13,7 +13,7 @@ Calculadora de IMC foi o primeiro aplicativo que desenvolvi para dar meus primei
 * ViewGroup
     * RelativeLayout
     * LinearLayout
-* Components de UI
+* Componentes de UI
     * TextView
     * EditText
     * Button
